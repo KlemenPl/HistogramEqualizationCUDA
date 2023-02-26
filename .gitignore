@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug/
+.clang-format
+
+stb_image.h
+stb_image_write.h
